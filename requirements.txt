@@ -1,0 +1,6 @@
+pandas
+numpy
+Flask
+-e .
+
+##whwenever we install new library we should give setup.py to build the package
